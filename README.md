@@ -4,7 +4,6 @@
 
 William Barnett, Elena Hernandez, and Anthony Rodriguez-Miranda
 
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Usage](#usage)
